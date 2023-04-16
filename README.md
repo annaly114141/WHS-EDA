@@ -1,4 +1,2 @@
-# WHS-Project-Data-Exploration
-iLab2
+# WHS-EDA
 
-Github Repository for WHS Project - iLab2
